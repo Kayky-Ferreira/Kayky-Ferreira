@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./Capa%20Kayky%20Ferreira.png" alt="Banner Kayky Ferreira" width="100%" />
+</p>
+
 <div align="center">
 
 # 👋 Olá, eu sou Kayky Ferreira
@@ -140,7 +144,7 @@ Geoprocessamento, mapas, dados espaciais, análise territorial e tecnologia apli
 
 ### 📫 Contato
 
-[![GitHub](https://img.shields.io/badge/GitHub-Kayky--Ferreira-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kayky-Ferreira)
+[![Email](https://img.shields.io/badge/Email-kaykywcf.of%40mail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:kaykywcf.of@mail.com)
 
 <br>
 
