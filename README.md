@@ -2,9 +2,9 @@
 
 # 👋 Olá, eu sou Kayky Ferreira
 
-### Software • Dados • Automação • Tecnologia
+### Software • Dados • Automação • Agrotech
 
-Transformo problemas reais em **software, automações e soluções baseadas em dados**.
+Transformo problemas reais em **software, automações e soluções baseadas em dados**, com experiência em tecnologia aplicada a operações e ao agronegócio.
 
 </div>
 
@@ -14,9 +14,11 @@ Transformo problemas reais em **software, automações e soluções baseadas em 
 
 Sou profissional de tecnologia com experiência em **desenvolvimento de software, dados, automação e soluções digitais**.
 
-Minha trajetória começou com a formação técnica em Informática pelo IFRO e evoluiu através de projetos reais envolvendo desenvolvimento de sistemas, análise e visualização de dados, automação de processos, geoprocessamento e tecnologia aplicada a operações.
+Minha trajetória começou com a formação técnica em Informática pelo IFRO e evoluiu através de projetos reais envolvendo desenvolvimento de sistemas, análise e visualização de dados, automação de processos, geoprocessamento e **tecnologia aplicada à Agricultura de Precisão e ao agronegócio**.
 
-Hoje, gosto especialmente de projetos em que **tecnologia, dados e operação precisam trabalhar juntos** para resolver problemas de forma simples, eficiente e prática.
+Hoje, gosto especialmente de projetos em que **tecnologia, dados e operação trabalham juntos** para resolver problemas de forma simples, eficiente e prática.
+
+Tenho interesse especial na criação de soluções que conectam **software, análise de dados, automação e aplicações para o setor agrícola**, sem deixar de explorar projetos de tecnologia em outras áreas.
 
 ---
 
@@ -43,12 +45,12 @@ Hoje, gosto especialmente de projetos em que **tecnologia, dados e operação pr
 
 `Análise de Dados` • `Modelagem` • `Dashboards` • `Relatórios` • `Visualização de Dados`
 
-### Geo & Agritech
+### Geo, Agrotech & Agricultura de Precisão
 
 ![QGIS](https://img.shields.io/badge/QGIS-0D1117?style=for-the-badge&logo=qgis&logoColor=589632)
 ![GeoJSON](https://img.shields.io/badge/GeoJSON-0D1117?style=for-the-badge&logo=json&logoColor=7FDBFF)
 
-`GIS` • `GPS/GNSS` • `SHP` • `GeoJSON` • `GeoTIFF` • `Geoprocessamento` • `Agricultura de Precisão`
+`GIS` • `GPS/GNSS` • `SHP` • `GeoJSON` • `GeoTIFF` • `Geoprocessamento` • `Agricultura de Precisão` • `NDVI`
 
 ### Ferramentas
 
@@ -116,8 +118,8 @@ Tratamento, modelagem, dashboards e visualizações que transformam informação
 **⚙️ Automação**  
 Soluções para reduzir tarefas repetitivas, integrar processos e aumentar eficiência.
 
-**🗺️ Geo & Agritech**  
-Geoprocessamento, mapas, dados espaciais e tecnologia aplicada à Agricultura de Precisão.
+**🗺️ Geo & Agrotech**  
+Geoprocessamento, mapas, dados espaciais, análise territorial e tecnologia aplicada à Agricultura de Precisão.
 
 ---
 
@@ -127,6 +129,7 @@ Geoprocessamento, mapas, dados espaciais e tecnologia aplicada à Agricultura de
 - Trabalhando com Flutter, Supabase, PostgreSQL e SQL
 - Desenvolvendo automações e ferramentas em Python
 - Criando soluções que conectam software, dados e operação
+- Aplicando tecnologia a desafios do agronegócio e da Agricultura de Precisão
 - Explorando novos produtos e projetos de tecnologia
 
 ---
