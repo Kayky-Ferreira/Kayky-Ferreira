@@ -4,7 +4,7 @@
 
 ### Software • Dados • Automação • Agrotech
 
-Transformo problemas reais em **software, automações e soluções baseadas em dados**, com experiência em tecnologia aplicada a operações e ao agronegócio.
+Transformo problemas reais em **software, automações e soluções baseadas em dados**, desenvolvendo aplicações para **Web, Mobile e Desktop**, com experiência em tecnologia aplicada a operações e ao agronegócio.
 
 </div>
 
@@ -12,7 +12,7 @@ Transformo problemas reais em **software, automações e soluções baseadas em 
 
 ## 👨‍💻 Sobre mim
 
-Sou profissional de tecnologia com experiência em **desenvolvimento de software, dados, automação e soluções digitais**.
+Sou profissional de tecnologia com experiência em **desenvolvimento de software para Web, Mobile e Desktop, dados, automação e soluções digitais**.
 
 Minha trajetória começou com a formação técnica em Informática pelo IFRO e evoluiu através de projetos reais envolvendo desenvolvimento de sistemas, análise e visualização de dados, automação de processos, geoprocessamento e **tecnologia aplicada à Agricultura de Precisão e ao agronegócio**.
 
@@ -30,6 +30,8 @@ Tenho interesse especial na criação de soluções que conectam **software, an�
 ![C%23](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=512BD4)
 ![Dart](https://img.shields.io/badge/Dart-0D1117?style=for-the-badge&logo=dart&logoColor=0175C2)
 ![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=02569B)
+
+`Web` • `Mobile` • `Desktop` • `Aplicações Multiplataforma`
 
 ### Backend & Banco de Dados
 
@@ -63,7 +65,7 @@ Tenho interesse especial na criação de soluções que conectam **software, an�
 ## 🚀 Projetos em destaque
 
 ### 🌱 Agrospeed Coleta
-Aplicativo voltado a operações georreferenciadas em campo, com recursos para registro de pontos, limites, trajetos e dados coletados durante as operações.
+Aplicativo **mobile** voltado a operações georreferenciadas em campo, com recursos para registro de pontos, limites, trajetos e dados coletados durante as operações.
 
 **Tecnologias:** `Flutter` `Dart` `Supabase` `GPS/GNSS` `Dados Geoespaciais`
 
@@ -72,7 +74,7 @@ Aplicativo voltado a operações georreferenciadas em campo, com recursos para r
 ---
 
 ### 💼 Sistema de Gestão
-Plataforma de gestão empresarial com módulos financeiros, estoque, contas a pagar e receber, usuários, permissões e indicadores.
+Plataforma de gestão empresarial desenvolvida para uso em **Web, Mobile e Desktop**, com módulos financeiros, estoque, contas a pagar e receber, usuários, permissões e indicadores.
 
 **Tecnologias:** `Flutter` `Supabase` `PostgreSQL` `SQL`
 
@@ -81,7 +83,7 @@ Plataforma de gestão empresarial com módulos financeiros, estoque, contas a pa
 ---
 
 ### 🛰️ Sistema de Análise NDVI
-Aplicação em Python para cálculo e visualização do índice NDVI a partir de imagens GeoTIFF, com leitura das bandas RED e NIR, processamento automático, visualização e exportação dos resultados.
+Aplicação **desktop** em Python para cálculo e visualização do índice NDVI a partir de imagens GeoTIFF, com leitura das bandas RED e NIR, processamento automático, visualização e exportação dos resultados.
 
 **Tecnologias:** `Python` `CustomTkinter` `GeoTIFF` `Matplotlib` `NDVI`
 
@@ -110,7 +112,7 @@ Ferramenta em Python para transcrição de áudio utilizando Whisper.
 ## ⚙️ O que gosto de construir
 
 **💻 Software**  
-Aplicativos, sistemas e ferramentas digitais para resolver problemas reais.
+Aplicações **Web, Mobile e Desktop**, sistemas e ferramentas digitais para resolver problemas reais.
 
 **📊 Dados**  
 Tratamento, modelagem, dashboards e visualizações que transformam informação em decisão.
@@ -125,7 +127,7 @@ Geoprocessamento, mapas, dados espaciais, análise territorial e tecnologia apli
 
 ## 📌 Atualmente
 
-- Evoluindo aplicações web e mobile
+- Evoluindo aplicações **Web, Mobile e Desktop**
 - Trabalhando com Flutter, Supabase, PostgreSQL e SQL
 - Desenvolvendo automações e ferramentas em Python
 - Criando soluções que conectam software, dados e operação
