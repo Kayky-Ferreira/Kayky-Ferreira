@@ -2,11 +2,9 @@
 
 # 👋 Olá, eu sou Kayky Ferreira
 
-### Software • Dados • Geo • Agritech
+### Software • Dados • Automação • Tecnologia
 
 Transformo problemas reais em **software, automações e soluções baseadas em dados**.
-
-Tenho interesse especial em desenvolvimento de aplicações, geoprocessamento e tecnologia aplicada à Agricultura de Precisão.
 
 </div>
 
@@ -14,41 +12,49 @@ Tenho interesse especial em desenvolvimento de aplicações, geoprocessamento e 
 
 ## 👨‍💻 Sobre mim
 
-- 💻 Desenvolvimento de sistemas e aplicações web/mobile
-- 🌱 Tecnologia aplicada à Agricultura de Precisão
-- 🗺️ Geoprocessamento, GIS e dados espaciais
-- ⚙️ Automação de processos e rotinas
-- 📊 Organização, análise e visualização de dados
-- 🚀 Desenvolvimento de produtos e soluções para problemas reais
+Sou profissional de tecnologia com experiência em **desenvolvimento de software, dados, automação e soluções digitais**.
+
+Minha trajetória começou com a formação técnica em Informática pelo IFRO e evoluiu através de projetos reais envolvendo desenvolvimento de sistemas, análise e visualização de dados, automação de processos, geoprocessamento e tecnologia aplicada a operações.
+
+Hoje, gosto especialmente de projetos em que **tecnologia, dados e operação precisam trabalhar juntos** para resolver problemas de forma simples, eficiente e prática.
 
 ---
 
 ## 🧠 Skills
 
-### Linguagens
+### Linguagens & Desenvolvimento
 
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
 ![C%23](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=512BD4)
 ![Dart](https://img.shields.io/badge/Dart-0D1117?style=for-the-badge&logo=dart&logoColor=0175C2)
-
-### Desenvolvimento
-
 ![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=02569B)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
 ### Backend & Banco de Dados
 
-![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
+
+### Dados & BI
+
+![Power BI](https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![Excel](https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
+![Metabase](https://img.shields.io/badge/Metabase-0D1117?style=for-the-badge&logo=metabase&logoColor=509EE3)
+
+`Análise de Dados` • `Modelagem` • `Dashboards` • `Relatórios` • `Visualização de Dados`
 
 ### Geo & Agritech
 
 ![QGIS](https://img.shields.io/badge/QGIS-0D1117?style=for-the-badge&logo=qgis&logoColor=589632)
 ![GeoJSON](https://img.shields.io/badge/GeoJSON-0D1117?style=for-the-badge&logo=json&logoColor=7FDBFF)
 
-`GIS` • `GPS/GNSS` • `SHP` • `GeoJSON` • `Geoprocessamento` • `Agricultura de Precisão`
+`GIS` • `GPS/GNSS` • `SHP` • `GeoJSON` • `GeoTIFF` • `Geoprocessamento` • `Agricultura de Precisão`
+
+### Ferramentas
+
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
 ---
 
@@ -66,18 +72,27 @@ Aplicativo voltado a operações georreferenciadas em campo, com recursos para r
 ### 💼 Sistema de Gestão
 Plataforma de gestão empresarial com módulos financeiros, estoque, contas a pagar e receber, usuários, permissões e indicadores.
 
-**Tecnologias:** `Flutter` `Supabase` `PostgreSQL`
+**Tecnologias:** `Flutter` `Supabase` `PostgreSQL` `SQL`
 
 > Projeto privado em desenvolvimento.
 
 ---
 
-### 🛰️ Gerador de NDVI
-Projeto voltado ao processamento e geração de informações de vegetação a partir de dados geoespaciais.
+### 🛰️ Sistema de Análise NDVI
+Aplicação em Python para cálculo e visualização do índice NDVI a partir de imagens GeoTIFF, com leitura das bandas RED e NIR, processamento automático, visualização e exportação dos resultados.
 
-**Tecnologias:** `Python` `Geoprocessamento` `NDVI`
+**Tecnologias:** `Python` `CustomTkinter` `GeoTIFF` `Matplotlib` `NDVI`
 
 🔗 [Ver repositório](https://github.com/Kayky-Ferreira/gerar-ndvi)
+
+---
+
+### 📊 Dashboard de Análise de Solo
+Dashboard desenvolvido em Power BI para transformar dados de análises de solo em informações visuais e facilitar a interpretação dos resultados.
+
+**Recursos:** mapa interativo, distribuição de nutrientes, evolução histórica, indicadores e detalhamento das análises.
+
+**Tecnologias:** `Power BI` `Análise de Dados` `Visualização` `Agricultura de Precisão`
 
 ---
 
@@ -90,30 +105,29 @@ Ferramenta em Python para transcrição de áudio utilizando Whisper.
 
 ---
 
-## 🌱 Do campo ao código
-
-Minha experiência une tecnologia e operação real:
-
-**🌾 Campo**  
-Agricultura de Precisão, GPS/GNSS, coleta de dados e operações agrícolas.
-
-**📊 Dados**  
-Geoprocessamento, mapas, análises e informações espaciais.
+## ⚙️ O que gosto de construir
 
 **💻 Software**  
-Aplicativos, sistemas, automações e ferramentas digitais.
+Aplicativos, sistemas e ferramentas digitais para resolver problemas reais.
 
-A ideia é usar tecnologia para transformar processos reais em soluções mais simples, eficientes e inteligentes.
+**📊 Dados**  
+Tratamento, modelagem, dashboards e visualizações que transformam informação em decisão.
+
+**⚙️ Automação**  
+Soluções para reduzir tarefas repetitivas, integrar processos e aumentar eficiência.
+
+**🗺️ Geo & Agritech**  
+Geoprocessamento, mapas, dados espaciais e tecnologia aplicada à Agricultura de Precisão.
 
 ---
 
 ## 📌 Atualmente
 
-- Evoluindo aplicações para operações de campo e gestão
-- Trabalhando com Flutter, Supabase e PostgreSQL
-- Desenvolvendo automações em Python
-- Explorando soluções que conectam software, dados e Agricultura de Precisão
-- Construindo meu portfólio de projetos
+- Evoluindo aplicações web e mobile
+- Trabalhando com Flutter, Supabase, PostgreSQL e SQL
+- Desenvolvendo automações e ferramentas em Python
+- Criando soluções que conectam software, dados e operação
+- Explorando novos produtos e projetos de tecnologia
 
 ---
 
